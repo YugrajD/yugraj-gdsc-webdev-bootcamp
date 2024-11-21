@@ -1,0 +1,21 @@
+.fun {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    font-style: oblique;
+}
+
+button {
+    display: flex;
+    background-color: aqua; 
+}
+
+#porto {
+    background-color: red;
+}
