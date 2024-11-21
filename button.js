@@ -1,3 +1,3 @@
 function github() {
-    location.href = "https://github.com/YugrajD";
+    location.href = "https://github.com/YugrajD"; 
 }
